@@ -1,0 +1,82 @@
+[
+    {
+        "id": "63357b94f098459d089ef83e",
+        "index": 0,
+        "picture": "https://i.pinimg.com/originals/b9/f5/07/b9f507d660de0489aaf2b15bbe3882d4.gif",
+        "time": 3,
+        "age": 21,
+        "name": "Dumbbell",
+        "details": "Lower health risks, Weight lifting with dumbbells lowers your risk of heart attack, stroke, and cardiovascular disease, Better sleep. Using dumbbells in the gym can lead to improved shut-eye",
+        "gender": "female"
+    },
+    {
+        "id": "63357b9499902b838892742b",
+        "index": 1,
+        "picture": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/machine-chest-press.gif?fit=600%2C600&ssl=1",
+        "time": 4,
+        "age": 19,
+        "name": "Chest Press Machine",
+        "gender": "male",
+        "details": "The chest press targets your pectorals, deltoids, and triceps, building muscle tissue and strength. It also works your serratus anterior and biceps. This upper body strength and power help with daily activities such as pushing strollers, shopping carts, and heavy doors."
+    },
+    {
+        "id": "63357b9436c8747e64bc2c86",
+        "index": 2,
+        "picture": "https://j.gifs.com/w0VJ4m.gif",
+        "time": 1,
+        "age": 18,
+        "name": "Hammer Strength Machine",
+        "gender": "male",
+        "details": "The machine copies the natural movement of our body while strengthening it through the combination of one-sided movements and the meeting and swerving arcs to build up our physical strength. It also helps in strengthening both sides of the body."
+    },
+    {
+        "id": "63357b94a6f87d0d8da2ab9b",
+        "index": 3,
+        "picture": "https://i.makeagif.com/media/4-04-2016/jqzOnf.gif",
+        "time": 3,
+        "age": 18,
+        "name": "Hip Abduction Machine",
+        "gender": "male",
+        "details": "By exercising the abductor muscles we can improve core stability, better coordinate movements and improve general flexibility. The hip abduction machines make it possible to specifically work on this muscle group in isolation and strengthen it."
+    },
+    {
+        "id": "63357b942b057b7270140876",
+        "index": 4,
+        "picture": "https://img.freepik.com/free-photo/young-fitness-man-studio_7502-5005.jpg?w=2000",
+        "time": 1,
+        "age": 18,
+        "name": "Kettlebells",
+        "gender": "male",
+        "details": "Kettlebell exercises reveal and fix misalignments, compensations, asymmetries, and weaknesses in the body, relieving you of muscle stiffness and joint pain. Kettlebell training combines strength training with a high-intensity cardio workout, giving you an overall full-body workout in only about twenty minutes a day."
+    },
+    {
+        "id": "63357b94dce4ceba2d7e975e",
+        "index": 5,
+        "picture": "https://j.gifs.com/J8QgLJ.gif",
+        "time": 1,
+        "age": 25,
+        "name": "Lat Pulldown Machine",
+        "gender": "male",
+        "details": "The lat pulldown is a fantastic exercise to strengthen the latissimus dorsi muscle, the broadest muscle in your back, which promotes good postures and spinal stability. Form is crucial when performing a lat pulldown to prevent injury and reap the best results."
+    },
+    {
+        "id": "63357b94f00ed0ddfbf34fdf",
+        "index": 6,
+        "picture": "https://cdn.prod.openfit.com/uploads/2019/09/27124100/medicine-ball-pushups.gif",
+        "time": 3,
+        "age": 18,
+        "name": "Medicine Ball",
+        "gender": "female",
+        "details": "A medicine ball is commonly used to build core strength, which means building muscles in your abdomen and back. This helps with balance, posture, and overall wellness through proper alignment."
+    },
+    {
+        "id": "63357b94444244d63b9b5c30",
+        "index": 7,
+        "picture": "https://i.makeagif.com/media/5-26-2015/IGvTK2.gif",
+        "time": 4,
+        "age": 21,
+        "name": "Pec Fly Machine",
+        "gender": "male",
+        "details": "The fly machine is ideal for increasing chest strength and muscle mass by targeting the pectoralis muscles. You have two sets of pectoral muscles on each side of the front of your chest: the pectoralis major and the pectoralis minor."
+    }
+]
